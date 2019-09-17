@@ -1,0 +1,1 @@
+SERVICE_URLS = ['translate.google.cn']
